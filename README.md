@@ -2,7 +2,7 @@
 <br>
 <img align='right' src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="230">
 <p><em>Estudante de Sistemas de Informação em <a href="https://portal.ufrrj.br/">UFRRJ</a>
-<em>Aluna pesquisadora em <a href="http://r1.ufrrj.br/petsi/">PET-SI UFRRJ</a>
+<em><br>Aluna pesquisadora em <a href="http://r1.ufrrj.br/petsi/">PET-SI UFRRJ</a>
 <em>Desevolvedora PERN e Entusiasta em Ciência de Dados <a href="https://www.linkedin.com/in/isabellemaia/">LinkedIn</a></br>
 <div style="display:flex; justify-content: space-between;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="20px">
