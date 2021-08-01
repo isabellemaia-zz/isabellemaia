@@ -1,9 +1,3 @@
----
-title: Isabelle
-date: '2021-01-08'
-githubUsername: 'isabellemaia'
----
-
 <h2> Oioi, eu sou a Bell! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <br>
 <img align='right' src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="230">
